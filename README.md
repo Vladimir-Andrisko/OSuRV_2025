@@ -12,9 +12,9 @@ Procedure for git:
 	- 1 member fork original repository
 	- That member add others members as collaborators
 	- just first time `git clone` of your fork, to have local copy of project
-	- change files
 	- Everyday process
 		- `git pull` to update changes from github to local
+		- change files
 		- `git status` to see what is happening
 		- `git add` to stage files for commit
 		- `git commit -m 'some message'` to commit
