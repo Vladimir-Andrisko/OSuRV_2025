@@ -1,2 +1,7 @@
+- ROS2 support
+https://github.com/DusanDjordjic/OSuRV_2024
+https://vm.tiktok.com/ZMSgtUbtJ
+
+- Ultrasound sensor stop
 https://github.com/sarakr10/OSuRV_2024_mns
 https://www.youtube.com/shorts/5UKdKlVmVpg
